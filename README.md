@@ -81,7 +81,7 @@
 
 ### Installation
 
-1. Clone this repository: `git clone https://github.com/imykie/os-scheduler-simulator`
+1. Clone this repository: `git clone https://github.com/vandanasnh/CPU-Scheduling-Algorithm-Simulation`
 2. Navigate to the cloned repository's directory and Compile the source code using the following command: `./run.sh <your-test-file-path.csv>` (the program will also run after using this command)
 3. Run the compiled executable: `./program`
 
